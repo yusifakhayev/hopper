@@ -7,7 +7,10 @@
 
 Meet hopper, the anthropomorphic sphere! :)
 
-Give him a try! [hopper](https://hopper-hazel.vercel.app/)<br>[showcase](#-showcase)
+Give him a try! [hopper](https://hopper-hazel.vercel.app/)
+<br><br>
+### index
+[showcase](#-showcase)
 </div>
 
 ## narrative
