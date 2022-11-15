@@ -10,6 +10,10 @@ Meet hopper, the anthropomorphic sphere! :)
 Give him a try! [hopper](https://hopper-hazel.vercel.app/)
 <br><br>
 ### index
+[narrative](#-narrative)
+.
+[gameplay](#-gameplay)
+.
 [showcase](#-showcase)
 </div>
 
