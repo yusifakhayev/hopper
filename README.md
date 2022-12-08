@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="res/archsif1.svg" width=300>
+<img src="res/archsif.svg" width=300>
 
 # hopper
 
