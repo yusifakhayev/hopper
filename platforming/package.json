@@ -2,7 +2,7 @@
   "name": "platforming",
   "productName": "platforming",
   "version": "1.0.0",
-  "description": "I'm finally fucking doing it",
+  "description": "3D",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
